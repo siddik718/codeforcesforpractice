@@ -1,3 +1,7 @@
+// check if any given value is perfect squre
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 bool solve(int n){
