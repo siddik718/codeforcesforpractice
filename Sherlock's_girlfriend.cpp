@@ -1,3 +1,7 @@
+/*
+ Solving : if (i+1) is prime then multiple of it's will be different color.
+prime prices are color one and multiples of it's are color two.
+*/
 #include<bits/stdc++.h>
 #define N 100000
 using namespace std;
